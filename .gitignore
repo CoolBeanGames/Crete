@@ -1,0 +1,14 @@
+# Build output — never commit binaries
+bin/
+obj/
+.vs/
+out/
+publish/
+
+# Nested engine fork (own repo, own origin)
+engine/
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.user
+*.suo
