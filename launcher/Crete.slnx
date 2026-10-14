@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CreteLauncher.Core/CreteLauncher.Core.csproj" />
+  <Project Path="CreteLauncher.Tests/CreteLauncher.Tests.csproj" />
+  <Project Path="CreteLauncher/CreteLauncher.csproj" />
+</Solution>
